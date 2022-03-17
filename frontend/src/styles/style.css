@@ -1,0 +1,67 @@
+body {
+    background-color: #222222;
+}
+.container {
+    margin-top: 100px;
+    width: 600px;
+    height: auto;
+    min-height: calc(90vh - 5rem);
+    background-color: white;
+}
+
+.card-title {
+    background: #4643D3;
+    padding-left: 35px !important;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.book-content {
+    background: #FAEFE3;
+    padding: 25px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.book-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.author-name {
+    font-weight: 500;
+    color: #FE8360;
+}
+
+.fa-close {
+    float: right;
+    cursor: pointer;
+}
+
+input {
+    border: 1px solid #E7E7E7 !important;    
+    margin-top: 10px !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+    padding: 0 15px !important;
+}
+
+button.create {
+    background: #FE805C;
+    padding: 0 40px;
+    border-radius: 40px;
+    margin-top: 30px;
+    font-weight: 600;
+    text-transform: none !important;
+}
+
+p.error {
+    padding-left: 10px;
+    color: red;
+}
