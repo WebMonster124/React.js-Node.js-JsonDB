@@ -5,10 +5,10 @@ This repository houses the coding challenges for P2EPro. These are small hands-o
 ## Install method
 
 ### `Frontend`
-	npm install\
-	npm start\
+	-npm install
+	-npm start
 
-### `Backend`\
-	npm install
-	npm start\
+### `Backend`
+	-npm install
+	-npm start
 
